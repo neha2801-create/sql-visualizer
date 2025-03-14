@@ -1,4 +1,4 @@
-# SQL Query Visualizer
+# SQL Query Visualizer Using React 
 
 A modern, interactive tool for running SQL queries and visualizing the results in real-time.
 
