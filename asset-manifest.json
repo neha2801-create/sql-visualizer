@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sql-visualizer/static/css/main.bff8e447.css",
+    "main.js": "/sql-visualizer/static/js/main.ca1b49cc.js",
+    "static/js/453.dcbcafff.chunk.js": "/sql-visualizer/static/js/453.dcbcafff.chunk.js",
+    "index.html": "/sql-visualizer/index.html",
+    "main.bff8e447.css.map": "/sql-visualizer/static/css/main.bff8e447.css.map",
+    "main.ca1b49cc.js.map": "/sql-visualizer/static/js/main.ca1b49cc.js.map",
+    "453.dcbcafff.chunk.js.map": "/sql-visualizer/static/js/453.dcbcafff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bff8e447.css",
+    "static/js/main.ca1b49cc.js"
+  ]
+}
